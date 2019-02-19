@@ -1,2 +1,4 @@
 # nt-casbin
-nest.js with casbin
+
+1. npm install
+2. npm start
