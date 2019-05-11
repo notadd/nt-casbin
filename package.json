@@ -27,7 +27,7 @@
     "casbin": "2.0.4",
     "reflect-metadata": "0.1.13",
     "rimraf": "2.6.3",
-    "rxjs": "6.4.0",
+    "rxjs": "6.5.2",
     "typescript": "3.3.3",
     "snyk": "1.163.3"
   },
