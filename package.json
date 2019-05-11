@@ -39,7 +39,7 @@
     "@types/supertest": "2.0.7",
     "jest": "23.6.0",
     "nodemon": "1.18.10",
-    "prettier": "1.16.4",
+    "prettier": "1.17.0",
     "supertest": "3.4.2",
     "ts-jest": "23.10.5",
     "ts-loader": "4.5.0",
