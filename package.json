@@ -29,7 +29,7 @@
     "rimraf": "2.6.3",
     "rxjs": "6.5.2",
     "typescript": "3.3.3",
-    "snyk": "^1.266.0"
+    "snyk": "^1.429.0"
   },
   "devDependencies": {
     "@nestjs/testing": "6.2.2",
